@@ -1,2 +1,2 @@
 # Gestion_de_note
-Projet dee gestion de note
+Projet de gestion de note
